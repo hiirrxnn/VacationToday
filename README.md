@@ -1,8 +1,6 @@
 # VacationToday
 ![Cover](https://github.com/hiirrxnn/VacationToday/blob/main/client/src/assets/LOGO.png)
 
-# VacationToday
-
 **VacationToday** : A robust vacation rental website where property owners can list their homes, flats, or rental properties for tourists to book. Travelers can search, book, and manage their vacation accommodations with ease.
 
 ## Live Link
@@ -50,7 +48,7 @@
 4. My Bookings
    ![App Screenshot](https://github.com/hiirrxnn/VacationToday/blob/main/client/public/Bookings.png)
 5. My accomodations
-   ![App Screenshot](https://github.com/hiirrxnn/VacationToday/blob/main/client/public/Bookings.png)
+   ![App Screenshot](https://github.com/hiirrxnn/VacationToday/blob/main/client/public/MyPlaces.png)
 6. New accomodation
    ![App Screenshot](https://github.com/hiirrxnn/VacationToday/blob/main/client/public/SinglePlace.png)
 
